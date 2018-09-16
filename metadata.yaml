@@ -1,0 +1,28 @@
+_repo: The-Olive_51780
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bitting, K. G. (Katherine Golden)
+    aliases:
+    - Bitting, Katherine Golden
+    - Golden, Katherine E. (Katherine Eliza)
+    birthdate: 1869
+    deathdate: 1937
+    gutenberg_agent_id: '46552'
+    url: http://www.gutenberg.org/2009/agents/46552
+description: ''
+gutenberg_issued: '2016-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51780'
+  lccn: '20016354'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Olive'
+- !lcc 'TX'
+- GITenberg
+title: The Olive
+url: http://www.gutenberg.org/ebooks/51780
